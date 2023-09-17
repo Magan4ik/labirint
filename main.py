@@ -90,7 +90,7 @@ w6 = Wall(color, 300, 20, 10, 350)
 w7 = Wall(color, 390, 120, 130, 10)
 
 w_list = [w1, w2, w3, w4, w5, w6, w7]
-
+# тестовий коментар
 mixer.init()
 
 mixer.music.load('jungles.ogg')
